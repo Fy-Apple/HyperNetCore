@@ -1,0 +1,5 @@
+# 忽略构建目录
+cmake-build-debug/
+example/
+.idea/
+.vicode/

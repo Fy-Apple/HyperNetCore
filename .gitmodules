@@ -1,0 +1,15 @@
+[submodule "src/db"]
+	path = src/db
+	url = git@github.com:Fy-Apple/HNC-db.git
+[submodule "src/utils"]
+	path = src/utils
+	url = git@github.com:Fy-Apple/HNC-utils.git
+[submodule "src/rpc"]
+	path = src/rpc
+	url = git@github.com:Fy-Apple/HNC-rpc.git
+[submodule "src/net"]
+	path = src/net
+	url = git@github.com:Fy-Apple/HNC-net.git
+[submodule "src/core"]
+	path = src/core
+	url = git@github.com:Fy-Apple/HNC-core.git
